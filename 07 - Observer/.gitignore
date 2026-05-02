@@ -1,0 +1,33 @@
+# Maven
+target/
+
+# Java
+*.class
+*.jar
+
+# Include extras and docs folder
+!extras/
+!extras/**
+!docs/
+!docs/**
+
+# VS Code
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
