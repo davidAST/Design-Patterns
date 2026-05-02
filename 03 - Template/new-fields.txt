@@ -1,0 +1,6 @@
+Product code: length = 4
+Postal code: digits, length = 5
+Age: digits, greater than 18
+Salary: digits, between 21,000 and 80,000
+Location: Oviedo, Gijón, Avilés, or postal code
+Discount code: text, or 3-digit number
