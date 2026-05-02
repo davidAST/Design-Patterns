@@ -1,4 +1,4 @@
-# Lab 2: Virtual Machine
+# Lab 1: Virtual Machine
 
 A stack-based virtual machine implemented in Java using the **Command design pattern**.
 
