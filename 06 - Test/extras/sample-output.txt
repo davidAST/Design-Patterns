@@ -1,0 +1,81 @@
+--- START Internet [156.35.233.143]
+La  combinación de la caja  fuerte es       1234
+La contraseña  de  la tarjeta de crédito es 5678
+--- END   Internet
+
+--- START Bluetooth [César's iPhone]
+La  combinación de la caja  fuerte es       1234
+La contraseña  de  la tarjeta de crédito es 5678
+--- END   Bluetooth
+
+
+
+---------- Initial redesignt ----------
+
+--- START Internet [156.35.233.143]
+Mb  dpncjobdjôo ef mb dbkb  gvfsuf ft       2345
+Mb dpousbtfòb  ef  mb ubskfub ef dsêejup ft 6789
+--- END   Internet
+
+--- START Bluetooth [César's iPhone]
+Mb dpncjobdjôo ef mb dbkb gvfsuf ft 2345
+Mb dpousbtfòb ef mb ubskfub ef dsêejup ft 6789
+--- END   Bluetooth
+
+
+
+---------- Modification 1 ----------
+
+
+
+---------- Modification 2 ----------
+
+--- START Internet [1.1.1.1]
+La  combinación de la caja  fuerte es       1234
+La contraseña  de  la tarjeta de crédito es 5678
+--- END   Internet
+
+--- START Internet [1.1.1.2]
+La combinación de la caja fuerte es 1234
+La contraseña de la tarjeta de crédito es 5678
+--- END   Internet
+
+--- START Internet [1.1.1.3]
+La combinación de la caja fuerte es 1234
+La contraseña de la tarjeta de crédito es 5678
+--- END   Internet
+
+
+
+---------- Modification 3 ----------
+
+--- START Internet [1.1.1.1]
+La  combinación de la caja  fuerte es       1234
+La contraseña  de  la tarjeta de crédito es 5678
+--- END   Internet
+98 characters copied
+
+
+
+---------- Modification 4 ----------
+
+--- START Internet [1.1.1.1]
+La  combinación de la caja  fuerte es       1234
+La contraseña  de  la tarjeta de crédito es 5678
+--- END   Internet
+Before normalisation there were 98 characters
+After normalisation, 97 characters were copied
+
+
+
+---------- Modification 5 ----------
+
+--- START Internet [1.1.1.1]
+Mb  dpncjobdjôo ef mb dbkb  gvfsuf ft       2345
+Mb dpousbtfòb  ef  mb ubskfub ef dsêejup ft 6789
+--- END   Internet
+
+--- START Bluetooth [César's iPhone]
+Mb  dpncjobdjôo ef mb dbkb  gvfsuf ft       2345
+Mb dpousbtfòb  ef  mb ubskfub ef dsêejup ft 6789
+--- END   Bluetooth
